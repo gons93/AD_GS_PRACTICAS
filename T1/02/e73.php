@@ -1,3 +1,4 @@
+<meta charset="UTF-8">
 <?php 
 	$cadena = "0123456789abc.";
 
